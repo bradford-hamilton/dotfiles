@@ -67,6 +67,9 @@ complete -F __start_kubectl kc
 # https://github.com/windmilleng/tilt
 alias ktilt=/usr/local/Cellar/tilt/0.12.3/bin/tilt
 
+# https://github.com/sharkdp/bat
+alias cat=bat
+
 # A command-line system information tool written in bash 3.2+
 # https://github.com/dylanaraps/neofetch
 neofetch
